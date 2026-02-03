@@ -1,6 +1,6 @@
 # Project-1
 This includes files for Project #1
-The goal of this project to analyze the AirPurple air quality data gathered from all around the state of Nebraska. This is to better understand air quality patterns, evaluate compliance with National Air Quality Standards (NAAQS), and identify potential air quality risk to Nebraskans all-round the state.<img width="468" height="101" alt="image">
+The goal of this project to analyze the AirPurple air quality data gathered from all around the state of Nebraska. This is to better understand air quality patterns, evaluate compliance with National Air Quality Standards (NAAQS), and identify potential air quality risk to Nebraskans all-round the state.
 Task 1: Data Preparation
 The engineers will import AirPurple air quality data into python for analysis. The data will be checked by verifying sensor names, pollutant units, and geographic location to ensure accuracy and consistency throughout the data. All the data will then be grouped by the sensor names to allow for location-based comparisons in the data.
 Task 2: Analysis of Pollutants
@@ -10,4 +10,4 @@ Once the maximum recorded values for each pollutant will be identified across al
 Task 4: Environmental Evaluation
 The temperature and humidity will then be categorized according to client provided instructions. Pollution concentration will then be compared across temperature categories and humidity levels. Using statistics and visualizations will be used to evaluate whether temperature and humidity play a noticeable effect on the air quality throughout the state.
 Task 5: Pollutant concentrations will then be turned into Air Quality Index (AQI) categories using guidelines for PM2.5 and PM10. Once that is complete, engineers will then identify specific locations and time periods that could be potentially unhealthy for sensitive groups of people. These health risk events will be discussed and be further researched.
-<img width="468" height="538" alt="image"> 
+
