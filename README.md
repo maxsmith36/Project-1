@@ -10,4 +10,4 @@ Once the maximum recorded values for each pollutant will be identified across al
 Task 4: Environmental Evaluation
 The temperature and humidity will then be categorized according to client provided instructions. Pollution concentration will then be compared across temperature categories and humidity levels. Using statistics and visualizations will be used to evaluate whether temperature and humidity play a noticeable effect on the air quality throughout the state.
 Task 5: Pollutant concentrations will then be turned into Air Quality Index (AQI) categories using guidelines for PM2.5 and PM10. Once that is complete, engineers will then identify specific locations and time periods that could be potentially unhealthy for sensitive groups of people. These health risk events will be discussed and be further researched.
-<img width="468" height="538" alt="image" src="https://github.com/user-attachments/assets/8588443e-1796-45d6-9528-db9118d92646" />
+<img width="468" height="538" alt="image" 
